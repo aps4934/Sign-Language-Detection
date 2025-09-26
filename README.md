@@ -16,7 +16,6 @@ The repository contains the following key files and directories:
 - `proposal.pdf` - Project proposal document.
 - `synopsis.pdf` - Project synopsis.
 - `project.pdf` - Detailed project report.
-- `manoj.pdf` - Additional document (possibly related to the project or author).
 
 Optional folders may include `fonts/` and `styles/` for additional resources.
 
@@ -48,3 +47,4 @@ To deploy the site on Render:
 This project likely includes documentation in PDF format detailing the Sign Language Detection implementation, such as algorithms, datasets, or models used (e.g., computer vision for gesture recognition). For full technical details, refer to the PDF files in the repository.
 
 If this is part of a larger application (e.g., using MediaPipe or OpenCV for detection), the static site may serve as a frontend demo.
+
