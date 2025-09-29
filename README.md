@@ -49,3 +49,4 @@ This project likely includes documentation in PDF format detailing the Sign Lang
 If this is part of a larger application (e.g., using MediaPipe or OpenCV for detection), the static site may serve as a frontend demo.
 
 
+
